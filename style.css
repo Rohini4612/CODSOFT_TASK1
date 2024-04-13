@@ -1,0 +1,63 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: rgb(12, 13, 14);
+    padding: 0;
+  }
+  header {
+    background-color: black;
+    color: #111010;
+    text-align: center;
+    padding: 20px 0;
+  }
+  header h1 {
+    margin: 0;
+  }
+  #about1 {
+    text-align: center;
+    padding: 1px 0;
+  }
+  #about {
+    text-align: center;
+    padding: 20px 0;
+  }
+  #about img {
+    width: 20px;
+    border-radius: 10%;
+  }
+  #skills {
+    text-align: left;
+    padding: 10px 0;
+  }
+  #skills ul {
+    list-style: none;
+  }
+  #course1 {
+    text-align: center;
+    padding: 20px 0;
+  }
+  .course2 {
+    margin-bottom: 20px;
+  }
+  .course img {
+    max-width: 20%;
+    border-radius: 5px;
+  }
+  #resume,
+  #contact {
+    text-align: center;
+    padding: 20px 0;
+  }
+  #resume a {
+    text-decoration: none;
+    color: #333;
+    border: 1px solid #333;
+    padding: 10px 20px;
+    border-radius: 5px;
+  }
+  footer {
+    background-color: #333;
+    color: #080808;
+    text-align: center;
+    padding: 20px 0;
+  }
